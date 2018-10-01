@@ -1,21 +1,6 @@
 
 Formatting Page Content
 
-
-
-Welcome to your first challenge! 
-
-In this course’s challenges, you’ll work on completing the HTML Essential Training reference site. 
-You won’t be building the site from scratch, rather you’ll be completing various portions of the site in varying degrees of completion. 
-The goal is to reinforce and put into practice what you’ve learned in this chapter.
-
-
-For this challenge you’ll be planning and implementing a formatting strategy for the site. 
-
-In the steps below I’ll list the tasks you need to perform, as well as the relevant files for each task.
-
-
-
 1.	Determine a heading strategy.
              
 a.	Applies to: All pages
